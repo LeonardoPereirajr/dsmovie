@@ -3,7 +3,7 @@ function Form() {
 
     const movie = {
         id: 1,
-        image: "https://www.themoviedb.org/t/p/w533_andh300_bestv2/jBJWaqoSCiARWtfV0GlqHrcdidd.jpg",
+        image: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e5iqR3k7azXGK1tGaOLMnKycGku.jpg",
         title: "The Witcher",
         count: 2,
         score: 4.5
@@ -32,7 +32,6 @@ function Form() {
                         <button type="submit" className="btn btn-primary dsmovie-btn">Salvar</button>
                     </div>
                 </form>
-                <div className="dsmovie-form-btn-m3"></div>
                 <button className="btn btn-primary dsmovie-btn mt-3">Cancelar</button>
                 </div>
             </div>
