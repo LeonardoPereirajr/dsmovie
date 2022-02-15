@@ -18,9 +18,11 @@ header{
     .dsmovie-contact-link{
         margin: 0 0 0 10px;
         font-size: 12px;
+        align-items: center;
     }
     .dsmovie-nav-content h1{
         margin: 0;
         font-weight: 700;
         font-size: 24px;
+        align-items: center;
     }

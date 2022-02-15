@@ -5,6 +5,10 @@
     align-items: center;
 }
 
+.setas{
+    display: flex;
+    justify-content: center;
+}
 .dsmovie-pagination-box {
     width: 180px;
     display: flex;

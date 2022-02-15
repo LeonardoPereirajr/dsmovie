@@ -5,13 +5,17 @@ function Pagination() {
     return (
         <div className="dsmovies-pagination-container">
             <div className="dsmovies-pagination-box">
-                <button className="dsmovies-pagination-button" disabled={true}>
+            <div className="setas">
+                <button className="dsmovies-pagination-button" 
+                disabled={true}>
+                   
                     <Arrow />
                 </button>
                 <p>{`${1} de ${3}`}</p>
                 <button className="dsmovies-pagination-button" disabled={false}>
-                    <Arrow className="dsmovies-flip-horizontal" />
+                    <Arrow className="dsmovie-flip-horizontal" />
                 </button>
+            </div>
             </div>
         </div>
     );
