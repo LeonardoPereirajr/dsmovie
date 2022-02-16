@@ -1,19 +1,20 @@
 # dsmovie
 Semana Spring React
 Ferramentas Utilizadas no projeto:
-Curl
-Git
-Java JDK 11 ou 17
-Maven
-STS
-Postman
-Postgresql e pgAdmin
-Heroku CLI
-NodeJS 16.x
-VS Code
-DevSuperior no Instagram DevSuperior no Youtube
+
+-Curl
+-Git
+-Java JDK 11 ou 17
+-Maven
+-STS
+-Postman
+-Postgresql e pgAdmin
+-Heroku CLI
+-NodeJS 16.x
+-VS Code
 
 Objetivos do projeto
+
 Implementar o back end
 Modelo de domínio
 Acesso a banco de dados
@@ -21,17 +22,19 @@ Estruturar o back end no padrão camadas
 Criar endpoints da API REST
 Implantação na nuvem
 Modelo conceitual
-Image
+
 
 Padrão camadas adotado
-Image
+
 
 Criar repository
 Criar DTO
 Criar service
 Criar controller
 COMMIT: Find movies
+
 Passo: Salvar avaliação
+
 Lógica:
 Informar email, id do filme e valor da avaliação (1 a 5).
 
@@ -44,6 +47,7 @@ Recalcular a avaliação média do filme e salvar no banco de dados.
 Image
 
 Passo: Implantação no Heroku
+
 Criar app no Heroku
 Provisionar banco Postgres
 Definir variável APP_PROFILE=prod
