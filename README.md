@@ -12,8 +12,6 @@
 - NodeJS 16.x 
 - VS Code
 
-[![DevSuperior no Instagram](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/ig-icon.png)](https://instagram.com/devsuperior.ig)
-[![DevSuperior no Youtube](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/yt-icon.png)](https://youtube.com/devsuperior)
 
 ## Objetivos do projeto 
 - Implementar o back end
@@ -80,5 +78,5 @@ git subtree push --prefix backend heroku main
 ```
 
 - Configurações adicionais
-  - Site settings -> Domain Management: (colocar o nome que você quiser)
+  - Site settings -> Domain Management: (alterado nome)
   - Deploys -> Trigger deploy
