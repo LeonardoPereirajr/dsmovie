@@ -21,6 +21,10 @@
     display: flex;
     justify-content: center;
 }
+.dsmovie-cancelar{
+    display: flex;
+    justify-content: center;
+}
 
 .dsmovie-movie-card-image {
     width: 100%;

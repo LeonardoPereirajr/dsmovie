@@ -32,12 +32,15 @@ function Form() {
                     <div className="dsmovie-form-btn-container">
                         <button type="submit" className="btn btn-primary dsmovie-btn">Salvar</button>
                     </div>
+                    <div className="dsmovie-cancelar">
+                        <button className="btn btn-primary dsmovie-btn mt-3">Cancelar</button>
+                    </div>
                 </form>
                 <Link to="/">
-                <button className="btn btn-primary dsmovie-btn mt-3">Cancelar</button>
+                    
                 </Link>
-                </div>
             </div>
+        </div>
     );
 }
 export default Form;
