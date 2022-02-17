@@ -1,7 +1,6 @@
 # ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Projeto Spring React DSMovie
 ## Ferramentas Utilizadas no projeto:
 
-- Curl
 - Git
 - Java JDK 11 ou 17
 - Maven
@@ -80,3 +79,5 @@ git subtree push --prefix backend heroku main
 - Configurações adicionais
   - Site settings -> Domain Management: (alterado nome)
   - Deploys -> Trigger deploy
+
+- App disponibilizado em https://dsmovie-leonardopereira.netlify.app/
